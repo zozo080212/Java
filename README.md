@@ -1,8 +1,8 @@
-# ☕ Java Programming
+#  Java Programming
 
 Foundational Java programming projects demonstrating core concepts including string manipulation, algorithms, and problem-solving.
 
-## 💻 Programs
+##  Programs
 
 - **Cryptarithmetic** - Solves alphametic puzzles where letters represent digits
 - **FutureDate** - Calculates future dates given a starting date and number of days
@@ -12,7 +12,7 @@ Foundational Java programming projects demonstrating core concepts including str
 - **Palindrome** - Checks if strings are palindromes
 - **StringDemo** - Demonstrates various string operations
 
-## 🛠️ Technologies
+##  Technologies
 - Java
 - IntelliJ IDEA
 
